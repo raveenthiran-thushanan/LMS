@@ -10,7 +10,7 @@ v0.1.0
 
 ## SCM Lead
 
-Student 1
+Raveenthiran Thushanan
 
 ## Baseline Information
 
